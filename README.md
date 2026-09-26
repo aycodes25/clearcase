@@ -5,6 +5,11 @@ customer request flow and a support desk view, with deterministic policy
 decisions, an explainable audit trail, seeded JSON data, and an optional OpenAI
 explanation layer.
 
+## Screenshots
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e9181fdc-4ef6-4ae3-9f99-e12c3d61d5ca" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b0224436-c865-4776-967d-b15cb8b770ce" />
+
+
 ## Run with Docker
 
 1. Install and start Docker Desktop, then wait until it reports that Docker is running.
