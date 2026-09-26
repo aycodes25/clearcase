@@ -6,11 +6,11 @@ decisions, an explainable audit trail, seeded JSON data, and an optional OpenAI
 explanation layer.
 
 ## Screenshots
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e9181fdc-4ef6-4ae3-9f99-e12c3d61d5ca" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/cd42d8d6-9222-4880-b2b3-f4ff75406efc" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7d6d30b5-b95f-4461-ac24-1e25263bb1b8" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2e1c7240-6e1b-4713-8f5d-8a7bcc236040" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/75744fc5-3623-4bec-bc03-b18a4a16669c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e9181fdc-4ef6-4ae3-9f99-e12c3d61d5ca" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/cd42d8d6-9222-4880-b2b3-f4ff75406efc" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7d6d30b5-b95f-4461-ac24-1e25263bb1b8" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2e1c7240-6e1b-4713-8f5d-8a7bcc236040" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/75744fc5-3623-4bec-bc03-b18a4a16669c" />
 
 
 
