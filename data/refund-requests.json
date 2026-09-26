@@ -1,0 +1,91 @@
+[
+  {
+    "id": "rr-1790397096207",
+    "createdAt": "2026-09-26T04:31:36.207Z",
+    "customerId": "cus-001",
+    "orderId": "ord-1001",
+    "reason": "damaged",
+    "message": "damaged",
+    "decision": "ESCALATED",
+    "reasons": [
+      "Damaged or incorrect items qualify for review under the policy.",
+      "The request needs additional context before a refund decision can be made."
+    ],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  },
+  {
+    "id": "rr-1790396192270",
+    "createdAt": "2026-09-26T04:16:32.270Z",
+    "customerId": "cus-012",
+    "orderId": "ord-1012",
+    "reason": "damaged",
+    "message": "damaged",
+    "decision": "DENIED",
+    "reasons": [
+      "The order is older than the 30-day refund window."
+    ],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  },
+  {
+    "id": "rr-1790396146045",
+    "createdAt": "2026-09-26T04:15:46.045Z",
+    "customerId": "cus-005",
+    "orderId": "ord-1005",
+    "reason": "changed-mind",
+    "message": "changed my mind",
+    "decision": "APPROVED",
+    "reasons": [],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  },
+  {
+    "id": "rr-1790396038418",
+    "createdAt": "2026-09-26T04:13:58.418Z",
+    "customerId": "cus-009",
+    "orderId": "ord-1009",
+    "reason": "suspicious",
+    "message": "package arrived seems incomplete",
+    "decision": "ESCALATED",
+    "reasons": [
+      "Refunds above $500 require human review.",
+      "The request needs additional context before a refund decision can be made."
+    ],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  },
+  {
+    "id": "rr-1790395868673",
+    "createdAt": "2026-09-26T04:11:08.673Z",
+    "customerId": "cus-005",
+    "orderId": "ord-1005",
+    "reason": "changed-mind",
+    "message": "no longer interested",
+    "decision": "APPROVED",
+    "reasons": [],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  },
+  {
+    "id": "rr-1790395806487",
+    "createdAt": "2026-09-26T04:10:06.487Z",
+    "customerId": "cus-007",
+    "orderId": "ord-1007",
+    "reason": "damaged",
+    "message": "item sent is totally damaged ",
+    "decision": "APPROVED",
+    "reasons": [
+      "Damaged or incorrect items qualify for review under the policy."
+    ],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  },
+  {
+    "id": "rr-1790390287633",
+    "createdAt": "2026-09-26T02:38:07.633Z",
+    "customerId": "cus-001",
+    "orderId": "ord-1001",
+    "reason": "damaged",
+    "message": "The headphones arrived damaged and do not work.",
+    "decision": "APPROVED",
+    "reasons": [
+      "Damaged or incorrect items qualify for review under the policy."
+    ],
+    "aiNote": "Demo mode: deterministic policy evaluation was used because OPENAI_API_KEY is not configured."
+  }
+]

@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      PORT: 4000
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4o-mini}
+    volumes:
+      - ./data:/data
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    environment:
+      API_PROXY_TARGET: ${API_PROXY_TARGET:-http://backend:4000}
+    ports:
+      - "8080:80"

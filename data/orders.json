@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ord-1001",
+    "customerId": "cus-001",
+    "item": "Wireless headphones",
+    "amount": 189,
+    "createdAt": "2026-09-15",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1002",
+    "customerId": "cus-002",
+    "item": "Standing desk",
+    "amount": 620,
+    "createdAt": "2026-09-17",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1003",
+    "customerId": "cus-003",
+    "item": "Running shoes",
+    "amount": 115,
+    "createdAt": "2026-09-16",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1004",
+    "customerId": "cus-004",
+    "item": "Clearance jacket",
+    "amount": 140,
+    "createdAt": "2026-09-11",
+    "finalSale": true
+  },
+  {
+    "id": "ord-1005",
+    "customerId": "cus-005",
+    "item": "Coffee grinder",
+    "amount": 89,
+    "createdAt": "2026-09-10",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1006",
+    "customerId": "cus-006",
+    "item": "Monitor",
+    "amount": 340,
+    "createdAt": "2026-08-12",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1007",
+    "customerId": "cus-007",
+    "item": "Travel backpack",
+    "amount": 160,
+    "createdAt": "2026-09-18",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1008",
+    "customerId": "cus-008",
+    "item": "Bluetooth speaker",
+    "amount": 210,
+    "createdAt": "2026-09-14",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1009",
+    "customerId": "cus-009",
+    "item": "Kitchen set",
+    "amount": 520,
+    "createdAt": "2026-09-13",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1010",
+    "customerId": "cus-010",
+    "item": "Desk lamp",
+    "amount": 74,
+    "createdAt": "2026-09-09",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1011",
+    "customerId": "cus-011",
+    "item": "Fitness tracker",
+    "amount": 199,
+    "createdAt": "2026-09-08",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1012",
+    "customerId": "cus-012",
+    "item": "Leather boots",
+    "amount": 285,
+    "createdAt": "2026-08-01",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1013",
+    "customerId": "cus-013",
+    "item": "Tablet",
+    "amount": 480,
+    "createdAt": "2026-09-12",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1014",
+    "customerId": "cus-014",
+    "item": "Office chair",
+    "amount": 455,
+    "createdAt": "2026-09-07",
+    "finalSale": false
+  },
+  {
+    "id": "ord-1015",
+    "customerId": "cus-015",
+    "item": "Air purifier",
+    "amount": 315,
+    "createdAt": "2026-09-06",
+    "finalSale": false
+  }
+]

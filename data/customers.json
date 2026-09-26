@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cus-001",
+    "name": "Amara Okafor",
+    "email": "amara@example.com"
+  },
+  {
+    "id": "cus-002",
+    "name": "Daniel Reed",
+    "email": "daniel@example.com"
+  },
+  {
+    "id": "cus-003",
+    "name": "Sofia Martinez",
+    "email": "sofia@example.com"
+  },
+  {
+    "id": "cus-004",
+    "name": "Marcus Chen",
+    "email": "marcus@example.com"
+  },
+  {
+    "id": "cus-005",
+    "name": "Nia Williams",
+    "email": "nia@example.com"
+  },
+  {
+    "id": "cus-006",
+    "name": "Jon Bell",
+    "email": "jon@example.com"
+  },
+  {
+    "id": "cus-007",
+    "name": "Lara Schmidt",
+    "email": "lara@example.com"
+  },
+  {
+    "id": "cus-008",
+    "name": "Peter Adeyemi",
+    "email": "peter@example.com"
+  },
+  {
+    "id": "cus-009",
+    "name": "Grace Kim",
+    "email": "grace@example.com"
+  },
+  {
+    "id": "cus-010",
+    "name": "Owen Taylor",
+    "email": "owen@example.com"
+  },
+  {
+    "id": "cus-011",
+    "name": "Maya Patel",
+    "email": "maya@example.com"
+  },
+  {
+    "id": "cus-012",
+    "name": "Leo Foster",
+    "email": "leo@example.com"
+  },
+  {
+    "id": "cus-013",
+    "name": "Ivy Brooks",
+    "email": "ivy@example.com"
+  },
+  {
+    "id": "cus-014",
+    "name": "Samir Khan",
+    "email": "samir@example.com"
+  },
+  {
+    "id": "cus-015",
+    "name": "Tessa Green",
+    "email": "tessa@example.com"
+  }
+]
