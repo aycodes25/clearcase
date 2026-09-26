@@ -7,6 +7,8 @@ explanation layer.
 
 ## Screenshots
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e9181fdc-4ef6-4ae3-9f99-e12c3d61d5ca" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/cd42d8d6-9222-4880-b2b3-f4ff75406efc" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7d6d30b5-b95f-4461-ac24-1e25263bb1b8" />
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b0224436-c865-4776-967d-b15cb8b770ce" />
 
 
